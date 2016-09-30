@@ -1,0 +1,19 @@
+{
+  "name": "fitbit-cli",
+  "version": "1.0.0",
+  "description": "Fitbit API Cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steve-a-jones/fitbit-cli.git"
+  },
+  "author": "Steve Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steve-a-jones/fitbit-cli/issues"
+  },
+  "homepage": "https://github.com/steve-a-jones/fitbit-cli#readme"
+}
