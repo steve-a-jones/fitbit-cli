@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/steve-a-jones/fitbit-cli/issues"
   },
-  "homepage": "https://github.com/steve-a-jones/fitbit-cli#readme"
+  "homepage": "https://github.com/steve-a-jones/fitbit-cli#readme",
+  "dependencies": {
+    "morphfn": "^1.1.0"
+  }
 }
