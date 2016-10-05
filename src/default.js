@@ -1,0 +1,1 @@
+module.exports = (cli) => (!process.argv.slice(2).length && cli.outputHelp());
